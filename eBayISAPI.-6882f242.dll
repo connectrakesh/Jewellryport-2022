@@ -1,0 +1,430 @@
+<script>var descGaugeInfo = {descST:(new Date()).getTime()};</script>
+<script type="text/javascript"> 
+		window.onerror = function(message, url, line) {
+			return true;
+		};
+	</script>
+	<script type="text/javascript"> 
+		var ebayItemID='263989482083';
+		var ebayItemRevisionTime='1643539314000';
+		var ebayAskSellerURL='https://contact.ebay.com/ws/eBayISAPI.dll?ShowSellerFAQ&iid=263989482083&requested=jewellryport&redirect=0&frm=284&rt=nc&_trksid=p2047675.l1499&ssPageName=PageSellerM2MFAQ_VI';
+		var _odtTitle = '';
+		var _odtSubTitle = '';
+		var _isTranslError = false;
+		var _sellerId = 'jewellryport';
+		var _dmn = 'ebay.com';
+	</script>
+	<script type="text/javascript">
+	try{
+		var jsonObj = {};
+		var hashParam = document.location.hash;
+		if(hashParam && hashParam.length > 0){
+			hashParam = decodeURI(hashParam.replace('#', ''));
+		}
+		if(hashParam && typeof(hashParam) === 'string'){
+			jsonObj = JSON.parse(hashParam);
+		}
+		if(jsonObj && jsonObj.jsUrl){
+			var jsUrl = jsonObj.jsUrl;
+			var script = document.createElement('script');
+			if(jsUrl.indexOf('//') != -1){
+				script.src = jsUrl;	
+			}else{
+				script.src = '//ir.ebaystatic.com/rs/v/'+jsUrl+'.js';
+			}
+			script.defer = true;
+			document.head.appendChild(script); 
+		}
+		if(jsonObj && jsonObj.title){
+			var title = jsonObj.title;
+			document.title = title;
+		}
+	}catch(e){
+		
+	}
+	</script>
+	<title>eBay</title>
+	<table align="center" style="border-spacing: 0px; width: 100%;">
+	<tr>
+		<td>
+			<div id="ds_div">
+							<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+									<html>
+									<head>
+                                    <!--PreviewScript-->
+									<title> ebay template </title>
+									</head>
+									<body>
+								<LINK REL='StyleSheet' HREF='https://templates1.kyozou.com/ebay/generic.css' type='text/css'><meta charset="utf-8" />
+<title>2 Ct D VS2 Certified Lab Grown Diamond Engagement Ring Round Cut 14k White Gold</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="stylesheet" type="text/css" href="https://isdiamondsestores.com/ebay/diamondstar17/css/listing.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://isdiamondsestores.com/ebay/diamondstar17/css/menu.css" media="all" /> <link rel="stylesheet" type="text/css" href="https://isdiamondsestores.com/ebay/diamondstar17/css/responsive.css" media="all" />
+<div id="wrapper">
+<div id="container"><header id="hdr">
+<div id="logo"><a href="https://www.ebay.com/str/gemshome" target="_blank" rel="noopener"><img class="transitionall5s" alt="JewellryPort" src="https://isdiamondsestores.com/ebay/diamondstar17/images/logo.svg" /></a></div>
+<div id="hdrRght">
+<ul id="topInfoLinks">
+<li><a href="https://my.ebay.com/ws/eBayISAPI.dll?AcceptSavedSeller&sellerid=jewellryport&refid=store&ssPageName=STORE:HTMLBUILDER:SIMPLEPAGE" target="_blank" rel="noopener">Bookmark our store</a></li>
+<li><a href="https://www.ebay.com/contact/sendmsg?&recipient=jewellryport" target="_blank" rel="noopener">Ask seller a question</a></li>
+</ul>
+</div>
+<div class="clear"><br /></div>
+</header><nav id="topNav">
+<ul>
+<li><a href="https://www.ebay.com/str/gemshome/DIAMOND-RING/_i.html?store_cat=39550789011" target="_blank" rel="noopener">Diamond Rings</a>
+<ul>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827396017" target="_blank" rel="noopener">Solitaire Rings</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827397017" target="_blank" rel="noopener">Rings with Accents</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827449017" target="_blank" rel="noopener">Wedding Bands</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827438017" target="_blank" rel="noopener">Ring Sets</a></li>
+</ul>
+</li>
+<li><span>Diamond Jewelry</span>
+<ul>
+             <li><a href="https://www.ebay.com/str/gemshome/DIAMOND-EARRINGS/_i.html?store_cat=39550790011" target="_blank">Earrings</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Diamond-Pendant/_i.html?store_cat=42779177011" target="_blank">Pendants</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/DIAMOND-BRACELETS/_i.html?store_cat=39550791011" target="_blank">Bracelets</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/RINGS-ON-SALE/_i.html?store_cat=41500592011" target="_blank">Other</a></li>
+           </ul>
+</li>
+ <li><a href="https://www.ebay.com/str/gemshome/loose-diamonds/_i.html?store_cat=42770234011" target="_blank">Loose Diamonds</a>
+           <ul>
+             <li><a href="https://www.ebay.com/str/gemshome/Asscher-Diamonds/_i.html?store_cat=42774704011" target="_blank">Asscher Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Cushion-Diamonds/_i.html?store_cat=42774705011" target="_blank">Cushion Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Emerald-Diamonds/_i.html?store_cat=42774706011" target="_blank">Emerald Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Heart-Diamonds/_i.html?store_cat=42774707011" target="_blank">Heart Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Heart-Diamonds/_i.html?store_cat=42774707011" target="_blank">Marquise Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Oval-Diamonds/_i.html?store_cat=42774709011" target="_blank">Oval Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Pear-Diamonds/_i.html?store_cat=42774710011" target="_blank">Pear Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Princess-Diamonds/_i.html?store_cat=42774711011" target="_blank">Princess Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Radiant-Diamonds/_i.html?store_cat=42774712011" target="_blank">Radiant Diamonds</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Round-Diamonds/_i.html?store_cat=42774713011" target="_blank">Round Diamonds</a></li>
+           </ul>
+          </li>
+          <li><a href="https://www.ebay.com/str/gemshome/Fancy-Diamonds/_i.html?store_cat=42774714011" target="_blank">Fancy Diamonds</a></li>                       
+          <li><a href="https://www.ebay.com/str/gemshome/RINGS-ON-SALE/_i.html?store_cat=41500592011" target="_blank">Special Deals</a></li>
+          <li><span>Shop by Price</span>
+           <ul><a ></a>
+             <li><a href="http://stores.ebay.com/gemshome/_i.html?_nkw=&submit=Search&_ipg=&_mPrRngCbx=1&_udlo=0.00&_udhi=500.00" target="_blank">0 - $500</a></li>
+             <li><a href="http://stores.ebay.com/gemshome/_i.html?_nkw=&submit=Search&_ipg=&_mPrRngCbx=1&_udlo=500.00&_udhi=1500.00" target="_blank">$500 - $1500</a></li>
+             <li><a href="http://stores.ebay.com/gemshome/_i.html?_nkw=&submit=Search&_ipg=&_mPrRngCbx=1&_udlo=1500.00&_udhi=3000.00" target="_blank">$1500 - $3000</a></li>
+             <li><a href="http://stores.ebay.com/gemshome/_i.html?_nkw=&submit=Search&_ipg=&_mPrRngCbx=1&_udlo=3000.00&_udhi=5000.00" target="_blank">$3000 - $5000</a></li>
+             <li><a href="http://stores.ebay.com/gemshome/_i.html?_nkw=&submit=Search&_ipg=&_mPrRngCbx=1&_udlo=5000.00&_udhi=10000.00" target="_blank">$5000 - $10,000</a></li>
+             <li><a href="http://stores.ebay.com/gemshome/_i.html?_nkw=&submit=Search&_ipg=&_mPrRngCbx=1&_udlo=10000.00&_udhi=100000.00" target="_blank">$10,000 +</a></li>
+           </ul>
+</li>
+</ul>
+<div class="clear"><br /></div>
+</nav><nav id="mobMenu"><label for="drop" class="toggle" id="toggleFirst">MENU</label> <input type="checkbox" id="drop" />
+<ul class="menu">
+<li><label for="drop-1" class="toggle">Diamond Rings <span>+</span></label> <a href="https://www.ebay.com/str/gemshome/DIAMOND-RING/_i.html?store_cat=39550789011" target="_blank" rel="noopener">Diamond Rings</a> <input type="checkbox" id="drop-1" />
+<ul>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827396017" target="_blank" rel="noopener">Solitaire Rings</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827397017" target="_blank" rel="noopener">Rings with Accents</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827449017" target="_blank" rel="noopener">Wedding Bands</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10827438017" target="_blank" rel="noopener">Ring Sets</a></li>
+</ul>
+</li>
+<li><label for="drop-2" class="toggle">Diamond Jewelry <span>+</span></label> <input type="checkbox" id="drop-2" />
+<ul>
+             <li><a href="https://www.ebay.com/str/gemshome/DIAMOND-EARRINGS/_i.html?store_cat=39550790011" target="_blank">Earrings</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/Diamond-Pendant/_i.html?store_cat=42779177011" target="_blank">Pendants</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/DIAMOND-BRACELETS/_i.html?store_cat=39550791011" target="_blank">Bracelets</a></li>
+             <li><a href="https://www.ebay.com/str/gemshome/RINGS-ON-SALE/_i.html?store_cat=41500592011" target="_blank">Other</a></li>
+           </ul>
+</li>
+<li><label for="drop-3" class="toggle">Loose Diamonds <span>+</span></label> <a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10799736017" target="_blank" rel="noopener">Loose Diamonds</a> <input type="checkbox" id="drop-3" />
+<ul>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ18640522017" target="_blank" rel="noopener">Asscher Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10842509017" target="_blank" rel="noopener">Cushion Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10842511017" target="_blank" rel="noopener">Emerald Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ19982869017" target="_blank" rel="noopener">Heart Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ19982870017" target="_blank" rel="noopener">Marquise Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ19982871017" target="_blank" rel="noopener">Oval Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ19982872017" target="_blank" rel="noopener">Pear Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10842510017" target="_blank" rel="noopener">Princess Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10842512017" target="_blank" rel="noopener">Radiant Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10842508017" target="_blank" rel="noopener">Round Diamonds</a></li>
+</ul>
+</li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10867755017" target="_blank" rel="noopener">Fancy Diamonds</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10867756017" target="_blank" rel="noopener">Special Deals</a></li>
+<li><label for="drop-4" class="toggle">Shop by Price <span>+</span></label> <input type="checkbox" id="drop-4" />
+<ul>
+<li><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=&amp;submit=Search&amp;_ipg=&amp;_mPrRngCbx=1&amp;_udlo=0.00&amp;_udhi=500.00" target="_blank" rel="noopener">0 - $500</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=&amp;submit=Search&amp;_ipg=&amp;_mPrRngCbx=1&amp;_udlo=500.00&amp;_udhi=1500.00" target="_blank" rel="noopener">$500 - $1500</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=&amp;submit=Search&amp;_ipg=&amp;_mPrRngCbx=1&amp;_udlo=1500.00&amp;_udhi=3000.00" target="_blank" rel="noopener">$1500 - $3000</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=&amp;submit=Search&amp;_ipg=&amp;_mPrRngCbx=1&amp;_udlo=3000.00&amp;_udhi=5000.00" target="_blank" rel="noopener">$3000 - $5000</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=&amp;submit=Search&amp;_ipg=&amp;_mPrRngCbx=1&amp;_udlo=5000.00&amp;_udhi=10000.00" target="_blank" rel="noopener">$5000 - $10,000</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=&amp;submit=Search&amp;_ipg=&amp;_mPrRngCbx=1&amp;_udlo=10000.00&amp;_udhi=100000.00" target="_blank" rel="noopener">$10,000 +</a></li>
+</ul>
+</li>
+<li><a href="https://www.ebay.com/contact/sendmsg?&recipient=jewellryport" target="_blank" rel="noopener">Contact Us</a></li>
+<li><label for="drop-5" class="toggle">Store Info <span>+</span></label> <input type="checkbox" id="drop-5" />
+<ul>
+<li><a href="https://www.ebay.com/str/gemshome/pages/about-us" target="_blank" rel="noopener">About</a></li>
+<li><a href="https://my.ebay.com/ws/eBayISAPI.dll?AcceptSavedSeller&sellerid=jewellryport&refid=store&ssPageName=STORE:HTMLBUILDER:SIMPLEPAGE" target="_blank" rel="noopener">Bookmark our Store</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/pages/store-policy" target="_blank" rel="noopener">Policy</a></li>
+</ul>
+</li>
+</ul>
+<div class="clear"><br /></div>
+</nav>
+<div id="shapeBlock">
+<div class="shCell" id="sh01"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Round" target="_blank" rel="noopener"><img alt="Round" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape1.png" /><span>Round</span></a></div>
+<div class="shCell" id="sh02"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Princess" target="_blank" rel="noopener"><img alt="Princess" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape2.png" /><span>Princess</span></a></div>
+<div class="shCell" id="sh03"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Emerald" target="_blank" rel="noopener"><img alt="Emerald" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape3.png" /><span>Emerald</span></a></div>
+<div class="shCell" id="sh04"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Asscher" target="_blank" rel="noopener"><img alt="Asscher" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape4.png" /><span>Asscher</span></a></div>
+<div class="shCell" id="sh05"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Marquise" target="_blank" rel="noopener"><img alt="Marquise" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape5.png" /><span>Marquise</span></a></div>
+<div class="shCell" id="sh06"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Pear" target="_blank" rel="noopener"><img alt="Pear" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape6.png" /><span>Pear</span></a></div>
+<div class="shCell" id="sh07"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Oval" target="_blank" rel="noopener"><img alt="Oval" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape7.png" /><span>Oval</span></a></div>
+<div class="shCell" id="sh08"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Heart" target="_blank" rel="noopener"><img alt="Heart" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape8.png" /><span>Heart</span></a></div>
+<div class="shCell" id="sh09"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Radiant" target="_blank" rel="noopener"><img alt="Radiant" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape9.png" /><span>Radiant</span></a></div>
+<div class="shCell" id="sh10"><a href="https://www.ebay.com/str/gemshome/_i.html?_nkw=Cushion" target="_blank" rel="noopener"><img alt="Cushion" src="https://isdiamondsestores.com/ebay/diamondstar17/images/shape10.png" /><span>Cushion</span></a></div>
+<div class="clear"><br /></div>
+</div>
+
+<div id="contentArea">
+<div id="prodTitle">
+<h1>2 Ct D VS2 Certified Lab Grown Diamond Engagement Ring Round Cut 14k White Gold</h1>
+</div>
+
+<div id="gallBlock">
+<div id="gallBlockLgCell"><input id="img1" type="radio" name="imgallery" checked="checked" /> <input id="img2" type="radio" name="imgallery" /> <input id="img3" type="radio" name="imgallery" /> <input id="img4" type="radio" name="imgallery" /> <input id="img5" type="radio" name="imgallery" /> <input id="img6" type="radio" name="imgallery" />
+<div class="clear"><br /></div>
+<div class="lrgImg" id="imgblock1">
+<div class="imgLgIn">
+<div id="videoBlock"><video width="300" height="150" controls="controls" controlslist="nodownload" preload="" autoplay="autoplay" loop="loop" muted="">
+                      <source src="https://view.dacast.com/37b5c99a9e47a8c62b796f8b52d10f89/video" type="video/mp4" />
+                      Your browser does not support the video tag.
+                    </video></div>
+</div>
+</div>
+
+<div class="lrgImg" id="imgblock2">
+<div class="imgLgIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584403.jpg" /></div>
+</div>
+ 
+<div class="lrgImg" id="imgblock3">
+<div class="imgLgIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584404.jpg" /></div>
+</div>
+ 
+<div class="lrgImg" id="imgblock4">
+<div class="imgLgIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584405.jpg" /></div>
+</div>
+ 
+<div class="lrgImg" id="imgblock5">
+<div class="imgLgIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584406.jpg" /></div>
+</div>
+
+<div class="clear"><br /></div>
+</div>
+<div id="gallThumbs" class="clearfix"><label for="img1">
+<div class="imgSmIn"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/video.svg" /></div>
+</label> <label for="img2" class="hideImghttps://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584403.jpg">
+<div class="imgSmIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584403.jpg" /></div>
+</label> <label for="img3" class="hideImghttps://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584404.jpg">
+<div class="imgSmIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584404.jpg" /></div>
+</label> <label for="img4" class="hideImghttps://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584405.jpg">
+<div class="imgSmIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584405.jpg" /></div>
+</label> <label for="img5" class="hideImghttps://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584406.jpg">
+<div class="imgSmIn"><img alt="" src="https://raw.githubusercontent.com/gemshube/Jewellryport-2022/Jewellryport-2020/41584406.jpg" /></div>
+</label></div>
+<div class="clear"><br /></div>
+</div>
+
+<div id="benBan">
+<div id="benHd">Our benefits</div>
+<ul>
+<li>Certificate of Authenticity</li>
+<li>Elegant Gift Box</li>
+<li>Free Worldwide Shipping</li>
+<li>Free Rings Resizing</li>
+<li>60-Day Return Policy</li>
+<li>100% Money Back Guarantee</li>
+<li>100% Satisfaction Guarantee</li>
+<li>Top Customer Service</li>
+</ul>
+<img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/benspic.png" />
+<div class="clear"><br /></div>
+</div>
+
+<div class="clear"><br /></div>
+<div id="descrBlock">
+<div class="specsCol" id="specsCol1">
+<div class="descrHd">Ring Details</div>
+
+<div class="specLine">Ring Type:<span class="specR">Solitaire with Accents</span></div>
+ 
+<div class="specLine">Total Carat Weight:<span class="specR">2 Ct</span></div>
+ 
+<div class="specLine">Metal Purity and Type:<span class="specR">14k  White Gold </span></div>
+ 
+<div class="specLine">Apprx. Gold Weight:<span class="specR">3 Grams</span></div>
+ 
+<div class="specLine">Ring Size:<span class="specR">Size Selectable</span></div>
+ 
+<div class="specLine">Size Range:<span class="specR">4 to 10</span></div>
+ 
+<div class="specLine">Retail Price:<span class="specR specLineTru">$7,616</span></div>
+ 
+<div class="specLine">Inventory Number:<span class="specR">DS-R203-LG-14</span></div>
+</div>
+<div class="specsCol" id="specsCol2">
+<div class="descrHd">Main Stone</div>
+
+<div class="specLine">Stone Type:<span class="specR">Diamond</span></div>
+ 
+<div class="specLine">Carat Weight:<span class="specR">1.00 Ct</span></div>
+ 
+<div class="specLine">Certificate:<span class="specR">Certificate of Authenticity</span></div>
+ 
+<div class="specLine">Shape:<span class="specR">Round</span></div>
+ 
+<div class="specLine">Color:<span class="specR">D</span></div>
+ 
+<div class="specLine">Clarity:<span class="specR">VS2</span></div>
+ 
+<div class="specLine">Cut:<span class="specR">Ideal</span></div>
+ </div>
+<div class="specsCol" id="specsCol3">
+<div class="descrHd">Accent Stones</div>
+
+<div class="specLine">Stone Type:<span class="specR">Diamonds</span></div>
+  
+<div class="specLine">Carat Weight:<span class="specR">1.00 Ct</span></div>
+ 
+<div class="specLine">Shape:<span class="specR">Round</span></div>
+ 
+<div class="specLine">Color:<span class="specR">D</span></div>
+ 
+<div class="specLine">Clarity:<span class="specR">VS</span></div>
+ </div>
+<div class="clear"><br /></div>
+
+<div id="descrCol">
+<div class="descrHd">Item Description</div>
+<div id="descrTxt">This is an amazing diamond engagement ring. This classic and very elegant proposal ring features an exquisite 1.00 carat, Round shape center diamond. <br />The center diamond is securely mounted in 14k gold setting, making for a simply amazing piece of jewelry.<br />This exquisite setting can accommodate diamonds at different sizes by your request. We will be pleased to assist you to select the diamond of your choice from our large certified diamonds collection.<br />All of our settings are available in platinum, 14 or 18 Karat white or yellow gold.<br />We sell only the finest quality certified diamonds &amp; diamond jewelry at the best prices on today's market. <br />The pictures do not reflect the amazing brilliancy of the diamonds.<br />If by any chance, you havent found the diamond or diamond jewelry that you are looking for, don't hesitate to contact us any time, and one of our sale's representatives will help you to find the best match for your request.<br />Custom made designs of all kinds is available upon request. <br />Act now to own a classic yet gorgeous design that will draw compliments wherever you go! <br />This ring deserves to sparkle on some lucky lady's finger!. <br />We stand behind our product. Along with this ring we will provide you with an appraisal document containing a detailed grading report on the diamond. <br />Your satisfaction is our priority. Don't miss out on this one! <br />This ring is absolutely perfect for an engagement or any other occasion.<br />Make It Yours!<br /> <br /> </div>
+</div>
+</div>
+
+<div class="bsx" id="upgrOptions">
+<div class="bsx" id="upgrGold">
+<div class="upgrHead">Upgrade Options</div>
+<img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/upggold.png" /> <span><a href="https://www.ebay.com/contact/sendmsg?&recipient=jewellryport" target="_blank" rel="noopener">Upgrade to 18K Yellow, Rose, White Gold or Platinum</a></span>
+<div class="clear"><br /></div>
+</div>
+<div class="bsx" id="upgrSize">
+<div class="upgrHead"> </div>
+<img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/upgsize.png" /> <span><a href="https://www.ebay.com/contact/sendmsg?&recipient=jewellryport" target="_blank" rel="noopener">Get Your Ring<br /> Resized for FREE</a></span>
+<div class="clear"><br /></div>
+</div>
+<div class="bsx" id="upgrStone"><a href="https://www.ebay.com/contact/sendmsg?&recipient=jewellryport" target="_blank" rel="noopener">Upgrade your <span>Center Stone</span></a>
+<div class="clear"><br /></div>
+</div>
+<div class="clear"><br /></div>
+</div>
+
+<div id="policyBlock"><input id="tab1" type="radio" name="tabs" checked="checked" /> <label for="tab1">About us</label> <input id="tab2" type="radio" name="tabs" /> <label for="tab2">Payment &amp; Shipping </label> <input id="tab3" type="radio" name="tabs" /> <label for="tab3">Return Policy</label> <input id="tab4" type="radio" name="tabs" /> <label for="tab4">Appraisal</label> <input id="tab5" type="radio" name="tabs" /> <label for="tab5">Customer Service</label>
+<div class="clear"><br /></div>
+<section id="content1">JewellryPort – Diamond &amp; Jewelry manufactures and exports fine diamond jewelry. With thirty years of experience within the industry, JewellryPort is able to provide premium quality with excellent service, warranty's on all goods and competitive prices. The company was initially established it as a diamond polishing plant. However, Having a true artist sole, we fell in love with jewelry design, and over the years established diamond jewelry design &amp; manufacturing capabilities. We are a certified gemologist, and our company's headquarters are located in the Diamond Exchange trade center in Ramat-Gan, Israel. Located within the center of the world diamond trade arena our customers benefit by getting both the diamonds and the jewelry from the source.
+<div class="polSpace"><br /></div>
+We are able to supply diamonds in various cut styles in an array of sizes, we specialize in Round, Brilliant and Princess cuts. All of our diamonds have been graded by trained gemologists. We are happy to provide you with the relevant certificates from GIA, HRD, GCI, IGI etc, according to what suits your needs.
+<div class="polSpace"><br /></div>
+Quality Control is implemented at every stage within the manufacturing process; each item is individually examined and approved before it leaves our factory. True to our heritage JewellryPort manufactures and export fine diamond jewelry set with beautiful diamonds while keeping the designs fresh and marketable. We only sell diamonds that are of the highest quality and have the best color and clarity. Our goal is to keep our customers extremely satisfied, which is why we give them 60 days to look over their purchase to make sure they are pleased with it; otherwise, their money gets refunded. Additionally, we encourage our customers to read our refund policy. Assisting our customers is very important to us, which is why we are available 24 hours a day, 7 days a week.</section>
+<section id="content2">
+<div class="polHd">Payment</div>
+We accept PayPal / MasterCard / Visa / American Express / Discover
+<div class="polSpace"><br /></div>
+<div class="polHd">Shipping</div>
+We are shipping diamonds &amp; diamonds jewelry worldwide. All items will be shipped upon either receipt or approval of payment within 1-2 business days. We offer Free expedited shipping which includes insurance. Some countries may charge additional fees at local customs (U.S. customers are not subject to any extra charges). In Europe there is an additional tax applicable, please contact us or your local tax office for more information. Buyers from Israel are subject to 18% VAT charges (Ma"am) on top of the end price.</section>
+<section id="content3">Money Back, Guarantee! In an effort to provide you the highest level of customer service, we at JewellryPort have a 100% NO-HASSLE, NO QUESTIONS ASKED RETURN POLICY. If you are not satisfied with your purchase, we will gladly refund you the full amount. Should you wish to return an item, please contact us and request a Return Authorization Number (RAN) and clearly mark it on the front of the package. Once we receive, inspect, and approve your item - you get your money back! In almost all cases this is the same day we receive your package.</section>
+<section id="content4">We at JewellryPort have taken the fear factor out of buying diamonds online and include a certified appraisal and grading report with every item not only to guarantee it's quality and value, but to provide you with the ultimate peace of mind and confidence knowing that you're dealing with a reputable manufacturer. Each item purchased will arrive along with a Certificate of Authenticity. Every Certificate of Authenticity will contain a detailed grading report, FREE OF CHARGE! Every certificate includes detailed information about the 4 important characteristics of your diamond (the 4 C's): color, cut, clarity and carat weight; a picture of the item and an appraised value. By combining the certificate and our full refund policy, this assures buyers are getting the quality that they are paying for.</section>
+<section id="content5">Our customers are valuable and important for us therefore our Goal is to offer you the best Customer Service. Have questions or comments? We would be happy to hear from you and serve you - Contact Us. We are dedicated to our customers and feel you should receive the personal attention you deserve. We typically reply to eMails within 24 hours.</section>
+</div>
+
+<div id="fCatsBlock">
+<div id="fCatModel"><a href="https://www.ebay.com/str/gemshome" target="_blank" rel="noopener"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/model.png" /></a></div>
+<div class="clear"><br /></div>
+<div class="fCat" id="fCat1">
+<div class="fCatNm"><a href="https://www.ebay.com/str/gemshome/DIAMOND-RING/_i.html?store_cat=39550789011" target="_blank" rel="noopener"> <span class="fCatL1">Engagement</span> <span class="fCatL2">Rings</span> <span class="fCatL3">Shop Now</span> </a></div>
+<div class="fCatIm"><a href="https://www.ebay.com/str/gemshome/DIAMOND-RING/_i.html?store_cat=39550789011" target="_blank" rel="noopener"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/fcat1.png" /></a></div>
+</div>
+<div class="fCat" id="fCat2">
+<div class="fCatNm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10842491017" target="_blank" rel="noopener"> <span class="fCatL1">Diamond</span> <span class="fCatL2">Bracelets</span> <span class="fCatL3">Shop Now</span> </a></div>
+<div class="fCatIm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10842491017" target="_blank" rel="noopener"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/fcat2.png" /></a></div>
+</div>
+<div class="fCat" id="fCat3">
+<div class="fCatNm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ1053750017" target="_blank" rel="noopener"> <span class="fCatL1">Stud</span> <span class="fCatL2">Earrings</span> <span class="fCatL3">Shop Now</span> </a></div>
+<div class="fCatIm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ1053750017" target="_blank" rel="noopener"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/fcat3.png" /></a></div>
+</div>
+<div class="fCat" id="fCat4">
+<div class="fCatNm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ1053750017" target="_blank" rel="noopener"> <span class="fCatL1">Diamond</span> <span class="fCatL2">Pendants</span> <span class="fCatL3">Shop Now</span> </a></div>
+<div class="fCatIm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ1053750017" target="_blank" rel="noopener"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/fcat4.png" /></a></div>
+</div>
+<div class="fCat" id="fCat5">
+<div class="fCatNm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10799736017" target="_blank" rel="noopener"> <span class="fCatL1">Loose</span> <span class="fCatL2">Diamonds</span> <span class="fCatL3">Shop Now</span> </a></div>
+<div class="fCatIm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10799736017" target="_blank" rel="noopener"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/fcat5.png" /></a></div>
+</div>
+<div class="fCat" id="fCat6">
+<div class="fCatNm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10867755017" target="_blank" rel="noopener"> <span class="fCatL1">Fancy Color</span> <span class="fCatL2">Diamonds</span> <span class="fCatL3">Shop Now</span> </a></div>
+<div class="fCatIm"><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ10867755017" target="_blank" rel="noopener"><img alt="" src="https://isdiamondsestores.com/ebay/diamondstar17/images/fcat6.png" /></a></div>
+</div>
+<div class="clear"><br /></div>
+</div>
+</div>
+<footer>
+<div id="labLogos">
+<div class="labLg" id="labLg1">
+<div class="labTxt">
+<div class="labNm">EGL</div>
+<div class="labSb">European Gemological Laboratory</div>
+</div>
+</div>
+<div class="labLg" id="labLg2">
+<div class="labTxt">
+<div class="labNm">GIA</div>
+<div class="labSb">Gemological Institute Of America</div>
+</div>
+</div>
+<div class="labLg" id="labLg3">
+<div class="labTxt">
+<div class="labNm">IGI</div>
+<div class="labSb">International Gemological Institute</div>
+</div>
+</div>
+<div class="labLg" id="labLg4">
+<div class="labTxt">
+<div class="labNm">AGI</div>
+<div class="labSb">Accredited Gemological Institution</div>
+</div>
+</div>
+<div class="clear"><br /></div>
+</div>
+
+<div id="footerBot">
+<div id="footerLinks">
+<ul>
+<li><a href="https://www.ebay.com/str/gemshome" target="_blank" rel="noopener">Home</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/pages/about-us" target="_blank" rel="noopener">About us</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/pages/store-policy" target="_blank" rel="noopener">Policy</a></li>
+<li><a href="https://my.ebay.com/ws/eBayISAPI.dll?AcceptSavedSeller&sellerid=jewellryport&refid=store&ssPageName=STORE:HTMLBUILDER:SIMPLEPAGE" target="_blank" rel="noopener">Newsletter signup</a></li>
+<li><a href="https://www.ebay.com/str/gemshome/_i.html?rt=p4634.c0.m14&_sop=10&" target="_blank" rel="noopener">New arrivals</a></li>
+<li><a href="https://www.ebay.com/str/gemshome_W0QQfsubZ0" target="_blank" rel="noopener">View all items</a></li>
+</ul>
+</div>
+<div id="copyNote">All Imagery &amp; Content © 2018 DiamondStar | Listing Template by <span title="Listing Template Design by LillyStar"><img alt="LillyStar" src="https://isdiamondsestores.com/ebay/diamondstar17/images/lilly.svg" /> LillyStar</span></div>
+<div id="footerLogos"><img alt="PayPal Verified" src="https://isdiamondsestores.com/ebay/diamondstar17/images/sealpp.png" /> <img alt="PayPal, VISA, MC, AE, Discover" src="https://isdiamondsestores.com/ebay/diamondstar17/images/sealcc.png" /> <img alt="FedEx" src="https://isdiamondsestores.com/ebay/diamondstar17/images/sealfe.png" /> <img alt="UPS" src="https://isdiamondsestores.com/ebay/diamondstar17/images/sealups.png" />
+<div class="clear"><br /></div>
+</div>
+<div class="clear"><br /></div>
+</div>
+</footer></div>
+</div>
+<div style="clear: both;"><br /></div><hr size='1'><div style='text-align:center;width:100%;color:black;'><img src='https://my.kyozou.com/design/logos/KyozouImageSmall.png'><br/><small>Sell Smarter with Kyozou.<br/>Inventory and Ecommerce Management</small></div></body></html><br><center><img src='https://counters1.kyozou.com/counter.aspx?Tmp=0&Item=218254342&Ven=1'/></center></div>
+						</td>
+	</tr>
+</table><span id="closeHtml"></span>
+<script type="text/javascript">
+		var _rfr = '';
+	</script>
+	<script src="https://ir.ebaystatic.com/rs/v/1yzqmzxk3a3utciscis2t10n1uu.js" type="text/javascript"></script>
